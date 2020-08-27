@@ -1,6 +1,21 @@
-# weather_app
+# Weather Check
 
-A new Flutter application.
+A Flutter Application where you can check weather of whatever place you want.
+
+Features/API used:
+* OpenWeather API
+* Providers
+* FutureBuilder
+
+
+#Screenshots
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/31320274/91434357-52288080-e882-11ea-9c10-123fd515cd10.png" width="250">
+  &emsp;&emsp;&emsp;
+<img src="https://user-images.githubusercontent.com/31320274/91434359-52c11700-e882-11ea-8598-574f80d91fbb.png" width="250">
+<br>
+</p>
 
 ## Getting Started
 
